@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdetolaEsther
 - 👀 I’m interested in:  web development
-- 🌱 I’m currently learning: React, Typescript and Angular.
+- 🌱 I’m currently learning: React, Typescript and Svelte.
 - 💞️ I’m looking to collaborate on: I'm looking to collaborate on open-source projects, community initiatives, and any interesting projects related to web development, or data science. If you have a project in mind or need a collaborator, feel free to reach out!
 
 - 📫 How to reach me : @ adetolaesther5@gmail.com
