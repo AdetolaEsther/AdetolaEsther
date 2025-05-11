@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AdetolaEsther
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning: React, Typescript and Svelte.
-- 💞️ I’m looking to collaborate on: I'm looking to collaborate on open-source projects, community initiatives, and any interesting projects related to web development. If you have a project in mind or need a collaborator, feel free to reach out!
-- 📫 How to reach me : @ adetolaesther5@gmail.com
+👋 Hi, I’m @AdetolaEsther
+👀 Passionate about: Building clean, user-friendly web experiences
+🌱 Currently leveling up in: React, TypeScript, Svelte, and Redux Toolkit (RTK)
+🤝 Open to collaborate on: Open-source projects, community-driven initiatives, or any exciting web development ideas.
+📫 Reach me at: adetolaesther5@gmail.com
