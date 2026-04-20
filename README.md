@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I’m Adetola Esther 👋<br>A frontend developer passionate about building clean, user-friendly web experiences and continuously growing my skills
-
+<p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300"/>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arinpee_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aderibigbe Esther) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/agathaFromOsapa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adetolaesther5@gmail.com) 
@@ -11,7 +13,11 @@ Hi, I’m Adetola Esther 👋<br>A frontend developer passionate about building 
 ![](https://github-readme-stats.shion.dev/api?username=AdetolaEsther&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=AdetolaEsther&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AdetolaEsther&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="200"/>
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AdetolaEsther&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
